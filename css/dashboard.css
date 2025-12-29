@@ -1,0 +1,57 @@
+/* GLOBAL DASHBOARD KASIR */
+
+body {
+  font-size: 14px;
+  background-color: #f4f6f9;
+}
+
+/* NAVBAR */
+.navbar {
+  background-color: #343a40 !important;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+/* SIDEBAR */
+.sidebar {
+  background-color: #ffffff;
+  border-right: 1px solid #ddd;
+  min-height: 100vh;
+}
+
+.sidebar .nav-link {
+  color: #333;
+  padding: 10px 20px;
+}
+
+.sidebar .nav-link:hover {
+  background-color: #f1f1f1;
+}
+
+.sidebar .nav-link.active {
+  background-color: #007bff;
+  color: #fff;
+}
+
+/* CONTENT */
+main {
+  background-color: #f4f6f9;
+}
+
+/* CARD */
+.card {
+  border-radius: 6px;
+}
+
+/* TABLE */
+.table th {
+  background-color: #343a40;
+  color: #fff;
+}
+
+/* BUTTON */
+.btn-sm {
+  font-size: 13px;
+}
